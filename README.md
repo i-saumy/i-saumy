@@ -1,4 +1,7 @@
 # 💫 About Me:
+![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/i-saumy/i-saumy/assets/128576559/318368ee-b01e-4626-9f4b-35b3d9933045)
+
+
 👋 Hi, I’m @i-saumy from Patna (India)<br>👨‍💻 I'm a Developer.<br>🤝🏻 I’m always open to work on collaborative projects<br>💼 I've more than 1200+ hours of coding experience<br>⚡ Fun fact : Coding Bugs were NOT named after an actual bug<br>My Portfolio: https://i-saumy.github.io/PORTFOLIO-WEBSITE/
 
 
